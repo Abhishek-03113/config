@@ -1,0 +1,14 @@
+test: /home/xcal/SIH-2023/real_time_yolo/COCO-Dataset-Limited-(Person-Only)-1/test
+train: /home/xcal/SIH-2023/real_time_yolo/COCO-Dataset-Limited-(Person-Only)-1/train
+val: /home/xcal/SIH-2023/real_time_yolo/COCO-Dataset-Limited-(Person-Only)-1/valid
+
+
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: coco-dataset-limited--person-only
+  url: https://universe.roboflow.com/shreks-swamp/coco-dataset-limited--person-only/dataset/1
+  version: 1
+  workspace: shreks-swamp
