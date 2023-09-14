@@ -1,7 +1,6 @@
-test: /home/xcal/SIH-2023/real_time_yolo/COCO-Dataset-Limited-(Person-Only)-1/test
-train: /home/xcal/SIH-2023/real_time_yolo/COCO-Dataset-Limited-(Person-Only)-1/train
-val: /home/xcal/SIH-2023/real_time_yolo/COCO-Dataset-Limited-(Person-Only)-1/valid
-
+test: C:\Users\Admin\YOLO\real_time_yolo\COCO-Dataset-Limited-(Person-Only)-1\test
+train: C:\Users\Admin\YOLO\real_time_yolo\COCO-Dataset-Limited-(Person-Only)-1\train
+val: C:\Users\Admin\YOLO\real_time_yolo\COCO-Dataset-Limited-(Person-Only)-1\valid
 
 names:
 - person
