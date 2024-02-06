@@ -12,4 +12,4 @@ chmod +x Anaconda3-2023.09-0-Linux-x86_64.sh
 bash Anaconda3-2023.09-0-Linux-x86_64.sh  
 sudo apt install mysql-server -y
 sudo systemctl start mysql.service -y  
-sudo snap install mysql-workbench-community -y 
+sudo snap install mysql-workbench-community
