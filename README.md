@@ -1,2 +1,11 @@
-# config files and installation scripts for linux desktop (UBUNTU)
-
+## config files and installation scripts for ubuntu desktop
+- Anaconda
+- Python3
+- Mysql (root user)
+- curl
+- git
+- gcc
+- g++
+- pip
+- mysql-workbench-community
+- vscode
