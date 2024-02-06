@@ -1,4 +1,5 @@
 sudo apt update -y 
+sudo apt upgrade -y
 sudo apt install git -y 
 sudo apt install curl -y  
 sudo apt install gcc -y 
@@ -13,3 +14,5 @@ bash Anaconda3-2023.09-0-Linux-x86_64.sh
 sudo apt install mysql-server -y
 sudo systemctl start mysql.service
 sudo snap install mysql-workbench-community
+
+sudo snap install code --classic
