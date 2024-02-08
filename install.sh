@@ -15,15 +15,11 @@ sudo apt install gnome-tweaks
 sudo apt install dolphin #nautilus sucks 
 sudo apt install gwenview #gwenview better 
 
-
-
-
 sudo apt install mysql-server -y
 sudo systemctl start mysql.service
 
 sudo snap install mysql-workbench-community
 sudo snap install code --classic
-
 
 #neovim 
 wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim.appimage
@@ -40,7 +36,6 @@ sudo dpkg --install google-chrome-*.deb
 # MongoDB Compass 
 wget https://downloads.mongodb.com/compass/mongodb-compass_1.42.0_amd64.deb
 sudo dpkg --install mongodb-compass-*.deb 
-
 
 # Anaconda 
 sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
